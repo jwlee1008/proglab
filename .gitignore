@@ -1,0 +1,9 @@
+# Generated scratch outputs
+outputs/
+docx_render/
+
+# macOS metadata
+.DS_Store
+
+# Office temporary files
+~$*
