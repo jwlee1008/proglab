@@ -1,6 +1,7 @@
 # Generated scratch outputs
 outputs/
 docx_render/
+.qa_*/
 
 # macOS metadata
 .DS_Store
